@@ -1,4 +1,5 @@
 #########Insight coding challenge 2016 - Twitter average degree over 60s window#########
+###Sai Ravuru, Python v2.7, 04/04/2016###
 
 import time
 import os
